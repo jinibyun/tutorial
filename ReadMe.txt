@@ -1,0 +1,1 @@
+http://backlogtool.com/git-guide/kr/intro/intro6_2.html
