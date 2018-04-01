@@ -3,3 +3,5 @@ Now...I am adding this change to the branch "issue1"
 
 working at issue2
 working at issue3 branch....
+
+This is newly generated file
